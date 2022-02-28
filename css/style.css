@@ -1,15 +1,19 @@
 *{
-    border: 0;
+   border: 0px;
 }
 /* HEADER START*/
 .logo{
     background-image: url("../img/pattern.png");
     background-color: rgb(78, 160, 255);
+    position: relative;
+    width: auto;
+    height: 170px;
 }
 
 #booleaner{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
 }
 .written{
     color: rgb(124, 124, 124);

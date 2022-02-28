@@ -1,5 +1,9 @@
 *{
-   border: 0px;
+   margin: 0;
+}
+
+.margin{
+    margin: 20px 10px;
 }
 /* HEADER START*/
 .logo{

@@ -33,6 +33,10 @@
     background-color: rgb(255, 255, 0);
 }
 
+ul{
+    margin-left: -1em;
+}
+
 table{
     width: 100%;
     border-collapse: collapse;

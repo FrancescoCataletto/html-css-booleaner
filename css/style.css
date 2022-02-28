@@ -1,7 +1,7 @@
 *{
     border: 0;
 }
-
+/* HEADER START*/
 .logo{
     background-image: url("../img/pattern.png");
     background-color: rgb(78, 160, 255);
@@ -18,7 +18,9 @@
 .headerSpan{
     color: rgb(75, 186, 234);
 }
+/* HEADER END */
 
+/* MAIN START */
 .mainSpan{
     background-color: rgb(255, 255, 0);
 }
@@ -35,3 +37,31 @@ table{
 .cyanrow{
     background-color: rgb(177, 229, 242);
 }
+/* MAIN END */
+
+/* FOOTER START */
+footer{
+    margin-top: 30px;
+}
+.firstFooter{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+    margin-bottom: 10px;
+    color: rgb(251, 251, 251);
+}
+
+.secondFooter{
+    background-image: url("../img/graph.jpg");
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+    color: rgb(251, 251, 251);
+}
+
+.firstFooter, .secondFooter{
+    padding-top: 1px;
+    padding-left: 10px;
+}
+/* FOOTER END */

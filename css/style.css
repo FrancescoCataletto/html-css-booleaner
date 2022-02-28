@@ -1,0 +1,23 @@
+*{
+    border: 0;
+}
+
+.logo{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(78, 160, 255);
+}
+
+#booleaner{
+    width: 150px;
+    height: 150px;
+}
+.written{
+    color: rgb(124, 124, 124);
+}
+
+.headerSpan{
+    color: rgb(75, 186, 234);
+}
+
+
+

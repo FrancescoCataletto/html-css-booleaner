@@ -29,6 +29,13 @@ table{
     width: 100%;
 }
 
+.twoColumns{
+    width: 25%;
+}
+
+.bigColumn{
+    width: 50%;
+}
 .firstrow{
     background-color: rgb(32, 169, 229);
     color: rgb(255, 255, 255);

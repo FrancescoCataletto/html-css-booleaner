@@ -21,7 +21,7 @@ h1{
     font-size: 50px;
 }
 
-h3 .highlight{
+.author{
     color: rgb(44, 174, 230);
 }
 
@@ -30,3 +30,39 @@ h3 .highlight{
     font-size: 25px;
 }
 
+/* MAIN */
+
+.highlight{
+    background-color: rgb(255, 255, 0);
+}
+
+.single, .double{
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+td{
+    background-color: rgb(177, 229, 242);
+}
+
+.blank-row{
+    background-color: white;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.single{
+    width: 25%;
+}
+.double{
+    width: 50%;
+}
+
+.section{
+    margin: 25px 0;
+}
+.list.section{
+    margin-left: 20px;
+}

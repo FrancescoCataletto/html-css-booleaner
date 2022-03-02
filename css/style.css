@@ -66,3 +66,31 @@ table{
 .list.section{
     margin-left: 20px;
 }
+
+/* FOOTER */
+
+#foot-p{
+    font-size: 20px;
+    color: rgb(143, 143, 143);
+}
+
+.first.footer.img{
+    background-image: url("../img/monitor.jpg");
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: 10px 0;
+}
+
+.second.footer.img{
+    background-image: url("../img/graph.jpg");
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}

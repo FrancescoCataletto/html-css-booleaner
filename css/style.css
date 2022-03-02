@@ -61,11 +61,14 @@ table{
 }
 
 .section{
-    margin: 25px 0;
+    margin: 25px auto;
+    /* width: 80%; */
 }
-.list.section{
-    margin-left: 20px;
+
+ul{
+    padding-left: 20px;
 }
+
 
 /* FOOTER */
 

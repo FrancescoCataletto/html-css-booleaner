@@ -16,3 +16,17 @@
     height: 100px;
     margin-top: 70px;
 }
+
+h1{
+    font-size: 50px;
+}
+
+h3 .highlight{
+    color: rgb(44, 174, 230);
+}
+
+.written{
+    color: rgb(120, 120, 120);
+    font-size: 25px;
+}
+
